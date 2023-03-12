@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmad Bilal Zaidi
 - 👀 I’m interested in collaborating and learning new tech stacks
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Open Source project
+- 🌱 I’m currently learning Android Development and Web Development
+- 💞️ I’m looking to collaborate on React/NodeJs/React-Native
 - 📫 How to reach me gl9641@myamu.ac.in
 
 <!---
