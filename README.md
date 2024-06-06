@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sadaf Zahera
+- 👋 Hi, I’m @Ahmad Bilal Zaidi
 - 👀 I’m interested in collaborating and learning new tech stacks
 - 🌱 I’m currently learning Android Development and Web Development
 - 📫 How to reach me gl9641@myamu.ac.in
